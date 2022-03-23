@@ -15,3 +15,15 @@ ruby ex13.rb 12 17 29
 
 * https://flatironschool.com/blog/a-short-explanation-of-argv
 * [the name of the called script](https://stackoverflow.com/a/4835877/18235104)
+
+# Exercise 16
+
+```bash
+ruby ex16.rb test.txt
+```
+
+* https://thoughtbot.com/blog/io-in-ruby#the-io-class
+* https://thoughtbot.com/blog/io-in-ruby#file
+* https://rubyapi.org/3.1/o/file#method-c-truncate
+* https://rubyapi.org/3.1/o/io#method-i-seek
+* https://stackoverflow.com/questions/27977368/seek-to-0-or-use-rewind-method

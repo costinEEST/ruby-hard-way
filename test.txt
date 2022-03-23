@@ -1,0 +1,3 @@
+What is doing the code on line seven?
+open(), creates a file if it does not exist
+close(), exits from a file
