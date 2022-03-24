@@ -27,3 +27,15 @@ ruby ex16.rb test.txt
 * https://rubyapi.org/3.1/o/file#method-c-truncate
 * https://rubyapi.org/3.1/o/io#method-i-seek
 * https://stackoverflow.com/questions/27977368/seek-to-0-or-use-rewind-method
+
+# Exercise 17
+
+```bash
+echo "This is a test file." > test.txt
+```
+```bash
+ruby ex17.rb test.txt new_file.txt
+```
+
+* https://rubyapi.org/3.1/o/file#method-c-exist-3F
+* https://stackoverflow.com/questions/8590098/how-to-check-for-file-existence
