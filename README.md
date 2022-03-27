@@ -44,3 +44,14 @@ ruby ex17.rb test.txt new_file.txt
 
 * https://www.justinweiss.com/articles/fun-with-keyword-arguments
 * https://github.com/JuanitoFatas/what-do-you-call-this-in-ruby
+
+# Exercise 20
+
+```bash
+ruby ex20.rb test.txt
+```
+
+```bash
+ri File#seek
+```
+* https://rubyapi.org/3.1/o/io#method-i-readline
