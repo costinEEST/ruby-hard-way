@@ -39,3 +39,8 @@ ruby ex17.rb test.txt new_file.txt
 
 * https://rubyapi.org/3.1/o/file#method-c-exist-3F
 * https://stackoverflow.com/questions/8590098/how-to-check-for-file-existence
+
+# Exercise 18
+
+* https://www.justinweiss.com/articles/fun-with-keyword-arguments
+* https://github.com/JuanitoFatas/what-do-you-call-this-in-ruby
