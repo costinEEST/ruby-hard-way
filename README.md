@@ -61,3 +61,26 @@ ri File#seek
 # Exercise 24
 
 - https://infinum.com/blog/multiline-strings-ruby-2-3-0-the-squiggly-heredoc
+
+# Exercise 25
+
+- https://stackoverflow.com/a/34573127
+- https://stackoverflow.com/a/3718649
+
+```bash
+irb
+```
+
+```ruby
+require "./ex25.rb"
+sentence = "All good things come to those who wait."
+words = Ex25.break_words(sentence)
+sorted_words = Ex25.sort_words(words)
+Ex25.print_first_word(words)
+Ex25.print_last_word(words)
+Ex25.print_first_word(sorted_words)
+Ex25.print_last_word(sorted_words)
+sorted_words = Ex25.sort_sentence(sentence)
+Ex25.print_first_and_last(sentence)
+Ex25.print_first_and_last_sorted(sentence)
+```
