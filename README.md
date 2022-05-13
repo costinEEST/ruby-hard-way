@@ -84,3 +84,7 @@ sorted_words = Ex25.sort_sentence(sentence)
 Ex25.print_first_and_last(sentence)
 Ex25.print_first_and_last_sorted(sentence)
 ```
+
+# Exercise 37
+
+- https://learnrubythehardway.org/book/ex37.html + https://docs.ruby-lang.org/en/2.2.0/keywords_rdoc.html + https://rubyreferences.github.io/rubyref/language/globals.html + https://rubyreferences.github.io/rubyref/language/keywords.html
