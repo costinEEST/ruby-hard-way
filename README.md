@@ -88,3 +88,12 @@ Ex25.print_first_and_last_sorted(sentence)
 # Exercise 37
 
 - https://learnrubythehardway.org/book/ex37.html + https://docs.ruby-lang.org/en/2.2.0/keywords_rdoc.html + https://rubyreferences.github.io/rubyref/language/globals.html + https://rubyreferences.github.io/rubyref/language/keywords.html
+
+# Exercise 41
+
+- https://rubyapi.org/3.0/o/uri#method-c-open
+- https://www.rubydoc.info/stdlib/open-uri/OpenURI
+- https://github.com/ruby/open-uri
+- https://janko.io/improving-open-uri
+- https://github.com/yegor256/iri
+- https://medium.com/@rainerborene/7-ways-to-encode-urls-in-ruby-c15078a7d6bc
