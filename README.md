@@ -105,3 +105,33 @@ rake test
 ```
 
 - https://github.com/mongrel/mongrel
+
+# Exercise 47
+
+```bash
+cp -r ex46 ex47
+```
+
+```bash
+mv NAME.gemspec ex47.gemspec
+```
+
+```bash
+mv bin/NAME bin/ex47
+```
+
+```bash
+mv tests/test_NAME.rb tests/test_ex47.rb
+```
+
+```bash
+mv lib/NAME lib/ex47
+```
+
+```bash
+mv lib/NAME.rb lib/ex47.rb
+```
+
+```bash
+find . -name "*NAME*" -print
+```
