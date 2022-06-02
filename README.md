@@ -97,3 +97,11 @@ Ex25.print_first_and_last_sorted(sentence)
 - https://janko.io/improving-open-uri
 - https://github.com/yegor256/iri
 - https://medium.com/@rainerborene/7-ways-to-encode-urls-in-ruby-c15078a7d6bc
+
+# Exercise 46
+
+```bash
+rake test
+```
+
+- https://github.com/mongrel/mongrel
